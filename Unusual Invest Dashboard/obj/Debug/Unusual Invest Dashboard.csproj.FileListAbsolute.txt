@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\bin\Debug\Unusual Invest Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\bin\Debug\Unusual Invest Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\bin\Debug\Unusual Invest Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual_Invest_Dashboard.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual Invest Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Unusual-Invest-Dashboard-Design\Unusual Invest Dashboard\obj\Debug\Unusual_Invest_Dashboard.Form1.resources
