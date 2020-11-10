@@ -13,8 +13,14 @@ Unusual Invest Dashboard Design</h3>
 		<a href="https://www.patreon.com/user/creators?u=43122521">
 			Patreon
 		</a>&nbsp;|
+		<a href="https://dribbble.com/am523_">
+			Dribbble
+		</a>&nbsp;|
 		<a href="https://www.youtube.com/channel/UCwI8AQlBewsdxbyk2r4n9CQ">
 			Youtube
+		</a>&nbsp;|
+		<a href="https://web.facebook.com/project523">
+			Facebook
 		</a>&nbsp;|
 		<a href="https://www.instagram.com/0x0000523am/">
 			Instagram
@@ -25,7 +31,7 @@ Unusual Invest Dashboard Design</h3>
 
 
 # Tutorial 📸
-- <a href="https://www.youtube.com/watch?v=dGU-NODlUQg">
+- <a href="https://youtu.be/ypgV-EsfUiQ">
 			Youtube
 		</a> 
 
